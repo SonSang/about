@@ -93,7 +93,7 @@ projects:
     title: Projects
     intro: >
       My projects primarily concern about topics in computer graphics and geometric processing. 
-      They come with prefix **Minute**, which means **Extremely small and simple**.
+      They come with prefix Minute, which means **Extremely small and simple**.
     assignments:
       - title: MinuteUtils
         link: https://github.com/SonSang/MinuteUtils
@@ -113,7 +113,7 @@ projects:
 
       - title: Course Project - Graphics Programming
         link: https://github.com/SonSang/Course-Project_Graphics-Programming
-        tagline: "In this project, I studied and implemented several important topics related to **rendering** : *Triangle Mesh Processing,Textures, Lights(Point, Area), Shadow, Ambient Occlusion, Deferred Rendering*, etc."
+        tagline: In this project, I studied and implemented several important topics related to **rendering** : *Triangle Mesh Processing,Textures, Lights(Point, Area), Shadow, Ambient Occlusion, Deferred Rendering*, etc.
         
       - title: Course Project - Advanced Animation
         link: https://github.com/SonSang/Course-Project_Advanced-Animation
