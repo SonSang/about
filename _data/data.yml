@@ -8,15 +8,14 @@ sidebar:
 
     # Profile information
     name: Sang Hyun Son
-    tagline: Graduate Student (Master)
+    tagline: Graduate Student at SNU (Computer Science and Engineering)
     avatar: sanghyun_profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: shh1295@snu.ac.kr / shh1295@gmail.com
+    phone: (+82)-10-6403-8286
+    website: sonsang.github.io/online-cv/
+    github: sonsang
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
