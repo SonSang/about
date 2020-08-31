@@ -64,13 +64,11 @@ experiences:
           - Torus : I have developed a novel algorithm to find minimum distance between toroidal patches and accelerated minimum distance computation between solids of revolution([paper]())([github]()).
           - Spherical Shell : I have developed an algorithm to bound surface of revolution with spherical shell and accelerated minimum distance computation between surfaces of revolution([paper(Korean)]()).
           - Medial Axis Transform : I have developed a GPU algorithm to compute medial axis, or bisector, of two bicubic Bezier surfaces in interactive time([video]()).
-
     - role: Game Engine Programmer (Intern)
       time: July 2018 - Sep 2018
       company: Smilegate
       details: |
         I developed an algorithm to accelerate geometric computations used in massive full 3D online game environment with octree and bounding volume hierarchy(BVH).
-        
     - role: Undergraduate Student
       time: Mar 2012 - Feb 2019 (Served for Korean military : Feb 2014 - Jan 2016)
       company: Seoul National University
