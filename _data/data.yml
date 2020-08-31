@@ -77,7 +77,7 @@ experiences:
           - **Parameter Inversion** : I have developed an algorithm to solve parameter inversion problem for freeform surfaces and volumes.
           - **Rectangle Swept Sphere(RSS)** : I have developed an algorithm to bound freeform surfaces tightly with RSS and contributed to surface-surface intersection algorithm's acceleration([paper]()).
           - **Torus** : I have developed a novel algorithm to find minimum distance between toroidal patches and accelerated minimum distance computation between solids of revolution([paper]())([github]()).
-          - **Spherical Shell** : I have developed an algorithm to bound surface of revolution with spherical shell and accelerated minimum distance computation between surfaces of revolution([paper(Korean)]()).
+          - **Spherical Shell** : I have developed an algorithm to bound surface of revolution with spherical shell and accelerated minimum distance computation between surfaces of revolution([paper(Korean)](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=557421bed7e75a9ec85d2949c297615a)).
           - **Medial Axis Transform** : I have developed a GPU algorithm to compute medial axis, or bisector, of two bicubic Bezier surfaces in interactive time([video]()).
     - role: Game Engine Programmer (Intern)
       time: July 2018 - Sep 2018
@@ -138,7 +138,7 @@ publications:
         conference: Eurographics & Eurovis (Computer Graphics Forum, 2020) <a href="https://www.youtube.com/watch?v=BoRHXYlMLIg&t=47m57s">[Talk]</em> <a href="https://github.com/SonSang/MinuteTorus">[Github]</em> 
 
       - title: "Computing minimum distance between surfaces of revolutionusing spherical shell tree (Korean)"
-        link: "#"
+        link: http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=557421bed7e75a9ec85d2949c297615a
         authors: <strong>Sang-Hyun Son</strong>, Seung-Hyun Yoon, Myung-Soo Kim
         conference: "Korea Computer Graphics Society, 2019"
 
