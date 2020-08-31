@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Sang Hyun Son
+    name: <span style="font-size:4em";>Sang Hyun Son</span>
     tagline: Graduate Student at SNU (Computer Science and Engineering)
     avatar: sanghyun_profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
