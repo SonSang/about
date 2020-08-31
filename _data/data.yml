@@ -132,7 +132,7 @@ publications:
         authors: Youngjin Park, <strong>Sang-Hyun Son</strong>, Myung-Soo Kim, Gershon Elber
         conference: "Solid and Physical Modeling (Computer Aided Design, 2020)"
 
-      - title: [Efficient Minimum Distance Computation for Solids of Revolution]() [(talk)]()
+      - title: Efficient Minimum Distance Computation for Solids of Revolution
         link: https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13950
         authors: <strong>Sang-Hyun Son</strong>, Seung-Hyun Yoon, Myung-Soo Kim, Gershon Elber
         conference: "Eurographics & Eurovis (Computer Graphics Forum, 2020)"
