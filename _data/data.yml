@@ -93,7 +93,7 @@ projects:
     title: Projects
     intro: >
       My projects primarily concern about topics in computer graphics and geometric processing. 
-      They come with prefix <strong>Minute</strong>, which means <strong>Extremely small and simple</strong>.
+      They come with prefix <strong>Minute</strong>, which means <strong>Extremely Small and Simple</strong>.
     assignments:
       - title: MinuteUtils
         link: https://github.com/SonSang/MinuteUtils
@@ -113,37 +113,34 @@ projects:
 
       - title: Course Project - Graphics Programming
         link: https://github.com/SonSang/Course-Project_Graphics-Programming
-        tagline: "Code that I submitted as term project for 430.638 Graphics Programming course at SNU in 2019."
+        tagline: "Code that I submitted as term project for 430.638 Graphics Programming course at SNU in 2019"
         
       - title: Course Project - Advanced Animation
         link: https://github.com/SonSang/Course-Project_Advanced-Animation
-        tagline: "Code that I submitted as assignments for 4190.663A Advanced Animation course at SNU in 2019."
+        tagline: "Code that I submitted as assignments for 4190.663A Advanced Animation course at SNU in 2019"
         
       - title: Course Project - Machine Learning and Optimization for 3D Data
         link: https://github.com/SonSang/Course-Project_Machine-Learning-and-Optimization-for-3D-Data
-        tagline: "Code that I submitted as term project for 430.658 Machine Learning and Optimization for 3D Data course at SNU in 2019."
+        tagline: "Code that I submitted as term project for 430.658 Machine Learning and Optimization for 3D Data course at SNU in 2019"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Surface-Surface-Intersection Computation Using a Bounding Volume Hierarchy with Osculating Toroidal Patches in the Leaf Nodes"
+        link: https://www.sciencedirect.com/science/article/pii/S0010448520300592
+        authors: Youngjin Park, <strong>Sang-Hyun Son</strong>, Myung-Soo Kim, Gershon Elber
+        conference: "Solid and Physical Modeling (Computer Aided Design, 2020)"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Efficient Minimum Distance Computation for Solids of Revolution"
+        link: https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13950
+        authors: <strong>Sang-Hyun Son</strong>, Seung-Hyun Yoon, Myung-Soo Kim, Gershon Elber
+        conference: "Eurographics & Eurovis (Computer Graphics Forum, 2020)"
 
-      - title: A syntax directed compiler for Algol 60
+      - title: "Computing minimum distance between surfaces of revolutionusing spherical shell tree"
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: <strong>Sang-Hyun Son</strong>, Seung-Hyun Yoon, Myung-Soo Kim
+        conference: "Korea Computer Graphics Society, 2019"
 
 skills:
     title: Skills &amp; Proficiency
