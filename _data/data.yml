@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Sang Hyun Son
     tagline: Graduate Student (Master)
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: sanghyun_profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: hello@webjeda.com
