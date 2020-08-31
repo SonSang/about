@@ -113,11 +113,11 @@ projects:
 
       - title: Course Project - Graphics Programming
         link: https://github.com/SonSang/Course-Project_Graphics-Programming
-        tagline: "Code that I submitted as term project for 430.638 Graphics Programming course at SNU in 2019."
+        tagline: "Code that I submitted as term project for 430.638 Graphics Programming course at SNU in 2019. In this project, I studied and implemented several important topics related to rendering : Triangle Mesh Processing,Textures, Lights(Point, Area), Shadow, Ambient Occlusion, Deferred Rendering, etc."
         
       - title: Course Project - Advanced Animation
         link: https://github.com/SonSang/Course-Project_Advanced-Animation
-        tagline: "code that I submitted as assignments for 4190.663A Advanced Animation course at SNU in 2019."
+        tagline: "Code that I submitted as assignments for 4190.663A Advanced Animation course at SNU in 2019."
         
       - title: Course Project - Machine Learning and Optimization for 3D Data
         link: https://github.com/SonSang/Course-Project_Machine-Learning-and-Optimization-for-3D-Data
