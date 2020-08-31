@@ -40,32 +40,26 @@ career-profile:
 education:
     - degree: MSc in Computer Science and Engineering
       university: Seoul National University
-      time: 2019-Present
+      time: Mar 2019-Present
       details: |
         As a master student of 3D modeling and Processing Lab in SNU, I have been supervised by professor Myung-Soo Kim.
         In this lab, I have developed algorithms to accelerate various geometric computations.
     - degree: BA in Archaeology / BSc in Computer Science and Engineering
       university: Seoul National University
-      time: 2012-2019 
+      time: Mar 2012- Feb 2019
       details: |
         I double majored in Archaeology and Computer Science and Engineering at SNU. 
         Graduated with Summa Cum Laude.
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Graduate Student
+      time: Mar 2019 - Present
+      company: [3D Modeling and Processing Lab](3map.snu.ac.kr), Seoul National University
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Supervised by professor Myung-Soo Kim, I have been a master student of 3D Modeling and Processing Lab in SNU.
+        In this lab, I have developed novel algorithms to solve following geometric problems in 3D modeling and processing field :
+          - Hausdorff Distance : I am currently working on an algorithm to compute Hausdorff distance between freeform surfaces.
+          - Parameter Inversion : I have developed an algorithm to solve parameter inversion problem for freeform geometric entities.
+          
    
 projects:
     title: Projects
