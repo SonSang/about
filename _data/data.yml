@@ -137,10 +137,10 @@ publications:
         authors: <strong>Sang-Hyun Son</strong>, Seung-Hyun Yoon, Myung-Soo Kim, Gershon Elber
         conference: Eurographics & Eurovis (Computer Graphics Forum, 2020) <a href="https://www.youtube.com/watch?v=BoRHXYlMLIg&t=47m57s">[Talk]</em> <a href="https://github.com/SonSang/MinuteTorus">[Github]</em> 
 
-      - title: "Computing minimum distance between surfaces of revolutionusing spherical shell tree (Korean)"
+      - title: "Computing minimum distance between surfaces of revolution using spherical shell tree (Korean)"
         link: http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=557421bed7e75a9ec85d2949c297615a
         authors: <strong>Sang-Hyun Son</strong>, Seung-Hyun Yoon, Myung-Soo Kim
-        conference: Korea Computer Graphics Society, 2019 <em>Best Paper Award</em>
+        conference: Korea Computer Graphics Society, 2019 <strong>(Best Paper Award)</strong>
 
 skills:
     title: Skills &amp; Proficiency
