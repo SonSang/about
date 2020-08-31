@@ -44,16 +44,12 @@ education:
       details: |
         As a master student of 3D modeling and Processing Lab in SNU, I have been supervised by professor Myung-Soo Kim.
         In this lab, I have developed algorithms to accelerate various geometric computations.
-    - degree: BA in Archaeology 
-      degree: BSc in Computer Science and Engineering
+    - degree: BA in Archaeology / BSc in Computer Science and Engineering
       university: Seoul National University
-      time: 2012-2019 (Korean Military Service from Feb.2014-Jan.2016)
+      time: 2012-2019 
       details: |
         I double majored in Archaeology and Computer Science and Engineering at SNU. 
         Graduated with Summa Cum Laude.
-experiences:
-    title: Research Experience
-    - role: Developer
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -70,28 +66,7 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+   
 projects:
     title: Projects
     intro: >
