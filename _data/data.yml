@@ -56,19 +56,14 @@ experiences:
       time: Mar 2019-Present
       company: 3D Modeling and Processing Lab, Seoul National University
       details: |
-        Supervised by professor Myung-Soo Kim, I have been a master student of 3D Modeling and Processing Lab in SNU.
-        In this lab, I have developed novel algorithms to solve following geometric problems in 3D modeling and processing field :
+        Supervised by professor Myung-Soo Kim, I have been a master student of [3D Modeling and Processing Lab](3map.snu.ac.kr) in SNU.
+        In this lab, I have worked on following geometric problems :
           - Hausdorff Distance : I am currently working on an algorithm to compute Hausdorff distance between freeform surfaces.
-          - Parameter Inversion : I have developed an algorithm to solve parameter inversion problem for freeform geometric entities.
-          - Rectangle Swept Sphere(RSS) : I have developed an algorithm to bound freeform surfaces tightly with RSS. 
-          Thanks to the efficiency of minimum distance computation between RSS and its superior precision, I could contribute to surface-surface intersection algorithm's acceleration([paper]()).
-          - Toroidal Computation : I have developed a novel algorithm to find minimum distance between toroidal patches using their binormal line (Line that passes through two geometric entities orthogonally).
-          Thanks to the efficiency of minimum distance computation between toroidal patches and its superior precision, I could accelerate minimum distance computation between solids of revolution([paper]()).
-          - Spherical Shell : I have developed an algorithm to bound surface of revolution with spherical shell. 
-          Thanks to the efficiency of minimum distance computation between spherical shells, I could accelerate minimum distance computation between surfaces of revolution([paper]()).
-          - Medial Axis Transform : I have developed a GPU algorithm to compute medial axis, or bisector, of two bicubic Bezier surfaces.
-          Thanks to the efficiency of the algorithm and GPU acceleration, I could compute bisector for many cases in interactive time([video]()).
-          
+          - Parameter Inversion : I have developed an algorithm to solve parameter inversion problem for freeform surfaces and volumes.
+          - Rectangle Swept Sphere(RSS) : I have developed an algorithm to bound freeform surfaces tightly with RSS and contributed to surface-surface intersection algorithm's acceleration([paper]()).
+          - Torus : I have developed a novel algorithm to find minimum distance between toroidal patches and accelerated minimum distance computation between solids of revolution([paper]()).
+          - Spherical Shell : I have developed an algorithm to bound surface of revolution with spherical shell and accelerate minimum distance computation between surfaces of revolution([paper]()).
+          - Medial Axis Transform : I have developed a GPU algorithm to compute medial axis, or bisector, of two bicubic Bezier surfaces in interactive time([video]()).
    
 projects:
     title: Projects
