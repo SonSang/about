@@ -38,28 +38,19 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Computer Science and Engineering
+      university: Seoul National University
+      time: 2019-Present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        As a master student of 3D modeling and Processing Lab in SNU, I have been supervised by professor Myung-Soo Kim.
+        In this lab, I have developed algorithms to accelerate various geometric computations.
+    - degree: BA in Archaeology 
+      degree: BSc in Computer Science and Engineering
+      university: Seoul National University
+      time: 2012-2019 (Korean Military Service from Feb.2014-Jan.2016)
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I double majored in Archaeology and Computer Science and Engineering at SNU. 
+        Graduated with Summa Cum Laude.
 experiences:
     - role: Lead Developer
       time: 2015 - Present
