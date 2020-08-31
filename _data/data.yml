@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: <span style="font-size:0.75em";>Sang Hyun Son</span>
-    tagline: Graduate Student (Master, Computer Science and Engineering)
+    tagline: Graduate Student (SNU CSE)
     avatar: sanghyun_profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -25,7 +25,22 @@ sidebar:
         level: Professional
 
     interests:
-      - item: (Almost every field of)Computer Graphics, Geometric Processing, Machine Learning on 3D Data, AR/VR, Computer Vision, Game Engine, etc.
+      - item: (Almost every field of) Computer Graphics : Geometric Modeling, Rendering, Animation, etc.
+        link:
+      
+      - item: Geometric Processing
+        link:
+        
+      - item: Machine Learning on 3D Data
+        link:
+        
+      - item: AR/VR
+        link:
+        
+      - item: Computer Vision
+        link:
+        
+      - item: Game Engine
         link:
 
 career-profile:
@@ -56,7 +71,7 @@ experiences:
       time: Mar 2019 - Present
       company: 3D Modeling and Processing Lab, Seoul National University
       details: |
-        Supervised by professor Myung-Soo Kim, I have been a master student of [3D Modeling and Processing Lab](http://3map.snu.ac.kr/) in SNU.
+        Supervised by professor **Myung-Soo Kim**, I have been a master student of [3D Modeling and Processing Lab](http://3map.snu.ac.kr/) in SNU.
         In this lab, I have worked on following issues in geometric processing :
           - **Hausdorff Distance** : I am *currently* working on an algorithm to compute Hausdorff distance between freeform surfaces.
           - **Parameter Inversion** : I have developed an algorithm to solve parameter inversion problem for freeform surfaces and volumes.
