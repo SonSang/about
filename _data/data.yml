@@ -93,27 +93,35 @@ projects:
     title: Projects
     intro: >
       My projects primarily concern about topics in computer graphics and geometric processing. 
-      They come with prefix **"Minute"**, which means **"Extremely small and simple"**.
+      They come with prefix **Minute**, which means **Extremely small and simple**.
     assignments:
       - title: MinuteUtils
         link: https://github.com/SonSang/MinuteUtils
-        tagline: "C++ library that supports basic math operations related to computer graphics and geometric modeling : Vector, Matrix,Domain arithmetic, Translation and Rotation (Quaternion), etc."
+        tagline: "C++ library that supports basic math operations related to computer graphics and geometric modeling"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: MinuteFreeform
+        link: https://github.com/SonSang/MinuteFreeform
+        tagline: "C++ library that supports basic geometric operations related to non-rational freeform geometric entities"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: MinuteEngine
+        link: https://github.com/SonSang/MinuteEngine
+        tagline: "C++ framework using modern OpenGL that supports basic rendering functions and provides graphics programming environment"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: MinuteTorus
+        link: https://github.com/SonSang/MinuteTorus
+        tagline: "C++ library that supports basic math operations related to torus"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Course Project - Graphics Programming
+        link: https://github.com/SonSang/Course-Project_Graphics-Programming
+        tagline: "Code that I submitted as term project for 430.638 Graphics Programming course at SNU in 2019."
+        
+      - title: Course Project - Advanced Animation
+        link: https://github.com/SonSang/Course-Project_Advanced-Animation
+        tagline: "code that I submitted as assignments for 4190.663A Advanced Animation course at SNU in 2019."
+        
+      - title: Course Project - Machine Learning and Optimization for 3D Data
+        link: https://github.com/SonSang/Course-Project_Machine-Learning-and-Optimization-for-3D-Data
+        tagline: "Code that I submitted as term project for 430.658 Machine Learning and Optimization for 3D Data course at SNU in 2019."
 
 publications:
     title: Publications
