@@ -58,12 +58,12 @@ experiences:
       details: |
         Supervised by professor Myung-Soo Kim, I have been a master student of [3D Modeling and Processing Lab](http://3map.snu.ac.kr/) in SNU.
         In this lab, I have worked on following geometric problems :
-          - Hausdorff Distance : I am currently working on an algorithm to compute Hausdorff distance between freeform surfaces.
-          - Parameter Inversion : I have developed an algorithm to solve parameter inversion problem for freeform surfaces and volumes.
-          - Rectangle Swept Sphere(RSS) : I have developed an algorithm to bound freeform surfaces tightly with RSS and contributed to surface-surface intersection algorithm's acceleration([paper]()).
-          - Torus : I have developed a novel algorithm to find minimum distance between toroidal patches and accelerated minimum distance computation between solids of revolution([paper]())([github]()).
-          - Spherical Shell : I have developed an algorithm to bound surface of revolution with spherical shell and accelerated minimum distance computation between surfaces of revolution([paper(Korean)]()).
-          - Medial Axis Transform : I have developed a GPU algorithm to compute medial axis, or bisector, of two bicubic Bezier surfaces in interactive time([video]()).
+          - **Hausdorff Distance** : I am *currently* working on an algorithm to compute Hausdorff distance between freeform surfaces.
+          - **Parameter Inversion** : I have developed an algorithm to solve parameter inversion problem for freeform surfaces and volumes.
+          - **Rectangle Swept Sphere(RSS)** : I have developed an algorithm to bound freeform surfaces tightly with RSS and contributed to surface-surface intersection algorithm's acceleration([paper]()).
+          - **Torus** : I have developed a novel algorithm to find minimum distance between toroidal patches and accelerated minimum distance computation between solids of revolution([paper]())([github]()).
+          - **Spherical Shell** : I have developed an algorithm to bound surface of revolution with spherical shell and accelerated minimum distance computation between surfaces of revolution([paper(Korean)]()).
+          - **Medial Axis Transform** : I have developed a GPU algorithm to compute medial axis, or bisector, of two bicubic Bezier surfaces in interactive time([video]()).
     - role: Game Engine Programmer (Intern)
       time: July 2018 - Sep 2018
       company: Smilegate
@@ -73,7 +73,7 @@ experiences:
       time: Mar 2012 - Feb 2019 
       company: Seoul National University
       details: |
-        I double majored in Archaeology and Computer Science and Engineering at SNU, and graduated with **Summa Cum Laude**.
+        I double majored in *Archaeology* and *Computer Science and Engineering* at SNU, and graduated with **Summa Cum Laude**.
 projects:
     title: Projects
     intro: >
