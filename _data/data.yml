@@ -93,7 +93,7 @@ projects:
     title: Projects
     intro: >
       My projects primarily concern about topics in computer graphics and geometric processing. 
-      They come with prefix <em>Minute</em>, which means **Extremely small and simple**.
+      They come with prefix <strong>Minute</strong>, which means <strong>Extremely small and simple</strong>.
     assignments:
       - title: MinuteUtils
         link: https://github.com/SonSang/MinuteUtils
