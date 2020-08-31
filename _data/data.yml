@@ -47,9 +47,8 @@ career-profile:
     title: Career Profile
     summary: |
       I am second year Master graduate student supervised by **[Myung-Soo Kim](http://3map.snu.ac.kr/mskim)**. <br/>
-      My research interest lies in <em>computer graphics, geometric processing, machine learning (on 3D data), and AR/VR</em>. <br/>
-      Previously, I was an undergraduate student at SNU majoring archaeology and computer science. <br/>
-      Still, I am interested in applying computer-driven analysis to artifacts from historical sites. <br/>
+      My research interest lies in <strong>computer graphics, geometric processing, machine learning, and AR/VR</strong>. <br/>
+      Previously, I was an undergraduate student at SNU majoring archaeology and computer science. Still, I am interested in applying computer-driven analysis to artifacts from historical sites. <br/>
       Also, I am an avid video game player, so I spent my summer vacation in 2018 as a game engine programmer intern.
       
 education:
