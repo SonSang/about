@@ -72,7 +72,7 @@ experiences:
       company: 3D Modeling and Processing Lab, Seoul National University
       details: |
         Supervised by professor **Myung-Soo Kim**, I have been a master student of [3D Modeling and Processing Lab](http://3map.snu.ac.kr/) in SNU.
-        In this lab, I have worked on following issues in geometric processing :
+        In this lab, I have worked on following geometric issues :
           - **Hausdorff Distance** : I am *currently* working on an algorithm to compute Hausdorff distance between freeform surfaces.
           - **Parameter Inversion** : I have developed an algorithm to solve parameter inversion problem for freeform surfaces and volumes.
           - **Rectangle Swept Sphere(RSS)** : I have developed an algorithm to bound freeform surfaces tightly with RSS and contributed to surface-surface intersection algorithm's acceleration([paper]()).
