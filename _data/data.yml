@@ -113,7 +113,7 @@ projects:
 
       - title: Course Project - Graphics Programming
         link: https://github.com/SonSang/Course-Project_Graphics-Programming
-        tagline: "Code that I submitted as term project for 430.638 Graphics Programming course at SNU in 2019. In this project, I studied and implemented several important topics related to rendering : Triangle Mesh Processing,Textures, Lights(Point, Area), Shadow, Ambient Occlusion, Deferred Rendering, etc."
+        tagline: "In this project, I studied and implemented several important topics related to **rendering** : *Triangle Mesh Processing,Textures, Lights(Point, Area), Shadow, Ambient Occlusion, Deferred Rendering*, etc."
         
       - title: Course Project - Advanced Animation
         link: https://github.com/SonSang/Course-Project_Advanced-Animation
