@@ -46,7 +46,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am second year Master graduate student supervised by **Myung-Soo Kim**. 
+      I am second year Master graduate student supervised by **[Myung-Soo Kim](http://3map.snu.ac.kr/mskim)**. 
       My research interest lies in computer graphics, geometric processing, machine learning (on 3D data), and AR/VR.
       Previously, I was an undergraduate student at SNU majoring archaeology and computer science. 
       Still, I am interested in applying computer-driven analysis to artifacts from historical sites.
@@ -57,7 +57,7 @@ education:
       university: 3D Modeling and Processing Lab, Seoul National University
       time: Mar 2019 - Present
       details: |
-        Supervised by professor **Myung-Soo Kim**, I have been a master student of [3D Modeling and Processing Lab](http://3map.snu.ac.kr/) in SNU.
+        Supervised by professor **[Myung-Soo Kim](http://3map.snu.ac.kr/mskim)**, I have been a master student of [3D Modeling and Processing Lab](http://3map.snu.ac.kr/) in SNU.
         In this lab, I have worked on following geometric issues :
           - **Hausdorff Distance** : I am *currently* working on an algorithm to compute Hausdorff distance between freeform surfaces.
           - **Parameter Inversion** : I have developed an algorithm to solve parameter inversion problem for freeform surfaces and volumes.
