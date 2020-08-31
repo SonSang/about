@@ -53,23 +53,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: Master student in Computer Science and Engineering
-      university: Seoul National University
+    - degree: Master Student in Computer Science and Engineering
+      university: 3D Modeling and Processing Lab, Seoul National University
       time: Mar 2019 - Present
-      details: |
-        As a master student of 3D modeling and Processing Lab in SNU, I have been supervised by professor Myung-Soo Kim.
-        In this lab, I have developed algorithms to accelerate various geometric computations.
-    - degree: BA in Archaeology<br/>BSc in Computer Science and Engineering
-      university: Seoul National University
-      time: Mar 2012 - Feb 2019
-      details: |
-        I double majored in Archaeology and Computer Science and Engineering at SNU. 
-        Graduated with Summa Cum Laude.
-
-experiences:
-    - role: Graduate Student
-      time: Mar 2019 - Present
-      company: 3D Modeling and Processing Lab, Seoul National University
       details: |
         Supervised by professor **Myung-Soo Kim**, I have been a master student of [3D Modeling and Processing Lab](http://3map.snu.ac.kr/) in SNU.
         In this lab, I have worked on following geometric issues :
@@ -79,16 +65,27 @@ experiences:
           - **Torus** : I have developed a novel algorithm to find minimum distance between toroidal patches and accelerated minimum distance computation between solids of revolution([paper]())([github]()).
           - **Spherical Shell** : I have developed an algorithm to bound surface of revolution with spherical shell and accelerated minimum distance computation between surfaces of revolution([paper(Korean)](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=557421bed7e75a9ec85d2949c297615a)).
           - **Medial Axis Transform** : I have developed a GPU algorithm to compute medial axis, or bisector, of two bicubic Bezier surfaces in interactive time([video]()).
+    - degree: BA in Archaeology<br/>BSc in Computer Science and Engineering
+      university: Seoul National University
+      time: Mar 2012 - Feb 2019
+      details: |
+        I double majored in *Archaeology* and *Computer Science and Engineering* at SNU, and graduated with **Summa Cum Laude**.
+        I authored following two bachelor thesis for each major :
+          - **Sang Hyun Son**, [Analysis of Hunter-Gatherer Subsistence Strategy with Computer Simulation](), 2018 (Korean)
+          - **Sang Hyun Son**, [Bisector Surface Construction for Two Bicubic Bezier Surfaces](), 2018 (Korean)
+
+experiences:
+    - role: Teaching Assistant
+      time: Sep 2019 - Dec 2019
+      company: 4190.667 Geometric Modeling Course at SNU
+    - role: Teaching Assistant
+      time: Mar 2019 - June 2019
+      company: 4190.313 Linear and Non-linear Computation Models Course at SNU
     - role: Game Engine Programmer (Intern)
       time: July 2018 - Sep 2018
       company: Smilegate
       details: |
         I developed an algorithm to accelerate geometric computations used in massive full 3D online game environment with octree and bounding volume hierarchy(BVH).
-    - role: Undergraduate Student
-      time: Mar 2012 - Feb 2019 
-      company: Seoul National University
-      details: |
-        I double majored in *Archaeology* and *Computer Science and Engineering* at SNU, and graduated with **Summa Cum Laude**.
 projects:
     title: Projects
     intro: >
