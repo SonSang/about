@@ -92,13 +92,12 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      My projects primarily concern about topics in computer graphics and geometric processing. 
+      They come with prefix **"Minute"**, which means **"Extremely small and simple"**.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: MinuteUtils
+        link: https://github.com/SonSang/MinuteUtils
+        tagline: "C++ library that supports basic math operations related to computer graphics and geometric modeling : Vector, Matrix,Domain arithmetic, Translation and Rotation (Quaternion), etc."
 
       - title: DevStudio
         link: "#"
