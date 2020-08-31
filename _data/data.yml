@@ -37,8 +37,6 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
-experiences:
-    title: Research Experience
 education:
     - degree: MSc in Computer Science and Engineering
       university: Seoul National University
@@ -53,6 +51,9 @@ education:
       details: |
         I double majored in Archaeology and Computer Science and Engineering at SNU. 
         Graduated with Summa Cum Laude.
+experiences:
+    title: Research Experience
+    - role: Developer
 experiences:
     - role: Lead Developer
       time: 2015 - Present
