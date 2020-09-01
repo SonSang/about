@@ -144,6 +144,18 @@ experiences:
       company: Smilegate
       details: |
         I developed an algorithm to accelerate geometric computations used in massive full 3D online game environment with octree and bounding volume hierarchy(BVH).
+awards:
+    - role: Teaching Assistant
+      time: Sep 2019 - Dec 2019
+      company: 4190.667 Geometric Modeling Course at SNU
+    - role: Teaching Assistant
+      time: Mar 2019 - June 2019
+      company: 4190.313 Linear and Non-linear Computation Models Course at SNU
+    - role: Game Engine Programmer (Intern)
+      time: July 2018 - Sep 2018
+      company: Smilegate
+      details: |
+        I developed an algorithm to accelerate geometric computations used in massive full 3D online game environment with octree and bounding volume hierarchy(BVH).
 skills:
     title: Skills &amp; Proficiency
 
