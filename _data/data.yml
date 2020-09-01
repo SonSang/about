@@ -46,7 +46,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a second year Master graduate student supervised by **[Myung-Soo Kim](http://3map.snu.ac.kr/mskim)**. <br/>
+      I am a second year **Master** graduate student supervised by **[Myung-Soo Kim](http://3map.snu.ac.kr/mskim)**. <br/>
       My research interests lie on <strong>computer graphics, geometric processing, machine learning, and AR/VR</strong>. <br/>
       Previously, I was an undergraduate student at SNU majoring in <strong>Archaeology</strong> and <strong>Computer Science and Engineering</strong>, and graduated <strong>Summa Cum Laude</strong>. Still, I am interested in analyzing historical artifacts with computers.<br/>
       Also, I am an avid video game player, so I spent my summer vacation in 2018 as a game engine programmer intern at <a href="https://www.smilegate.com/en/main/main.asp">Smilegate</a>.
@@ -57,7 +57,7 @@ education:
       time: Mar 2019 - Present
       details: |
         Supervised by professor **[Myung-Soo Kim](http://3map.snu.ac.kr/mskim)**, I am a master student in [3D Modeling and Processing Lab](http://3map.snu.ac.kr/) at SNU.
-        In this lab, I have worked on following geometric issues :
+        In this lab, I have worked on following issues :
           - **Hausdorff Distance** : I am *currently* working on an algorithm to compute Hausdorff distance between freeform surfaces.
           - **Parameter Inversion** : I have developed an algorithm to solve parameter inversion problem for freeform surfaces and volumes.
           - **Rectangle Swept Sphere(RSS)** : I have developed an algorithm to bound freeform surfaces tightly with RSS and contributed to surface-surface intersection algorithm's acceleration. [[paper](https://www.sciencedirect.com/science/article/pii/S0010448520300592)]
