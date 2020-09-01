@@ -65,10 +65,6 @@ education:
           - **Torus** : I have developed a novel algorithm to find minimum distance between toroidal patches and accelerated minimum distance computation between solids of revolution. [[paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13950)][[github](https://github.com/SonSang/MinuteTorus)][[talk](https://www.youtube.com/watch?v=BoRHXYlMLIg&t=47m57s)]
           - **Spherical Shell** : I have developed an algorithm to bound surface of revolution with spherical shell and accelerated minimum distance computation between surfaces of revolution. [[paper](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=557421bed7e75a9ec85d2949c297615a)][[ppt](https://github.com/SonSang/online-cv/blob/master/assets/papers/KCGS_Presentation.pptx)]
           - **Medial Axis Transform** : I have developed a GPU algorithm to compute medial axis, or bisector, of two bicubic Bezier surfaces in interactive time. [[paper](https://github.com/SonSang/online-cv/blob/master/assets/papers/Bachelor_Thesis_Bisector%20Surface%20Construction%20for%20Two%20Bicubic%20Bezier%20Surfaces.pdf)][[video](https://youtu.be/KcjTJ2wsBiw)]
-        During my graduate years, I received following awards and honors :
-          - **Lecture & Research Scholarship** *2020*
-          - **Best Paper Award (Korean Computer Graphics Society)** *2019*
-          - **Brain Korea 21 Plus** *2019*
     - degree: BA in Archaeology<br/>BSc in Computer Science and Engineering
       university: Seoul National University
       time: Mar 2012 - Feb 2019
@@ -77,10 +73,7 @@ education:
         I authored following two bachelor thesis :
           - **Sang Hyun Son**, [Analysis of Hunter-Gatherer Subsistence Strategy with Computer Simulation](https://github.com/SonSang/online-cv/blob/master/assets/papers/Bachelor_Thesis_Analysis%20of%20Hunter-Gatherer%20Subsistence%20Strategy%20with%20Computer%20Simulation.pdf), 2018 (Korean)
           - **Sang Hyun Son**, [Bisector Surface Construction for Two Bicubic Bezier Surfaces](https://github.com/SonSang/online-cv/blob/master/assets/papers/Bachelor_Thesis_Bisector%20Surface%20Construction%20for%20Two%20Bicubic%20Bezier%20Surfaces.pdf), 2018 (Korean) [[video](https://youtu.be/KcjTJ2wsBiw)]
-        During my undergraduate years, I received following awards and honors :
-          - **Samsung Convergence Software Course Scholarship** *2017*
-          - **Eminence Scholarship** *2017*
-          - **National Humanities and Social Sciences and Undergraduate Scholarship** *2016*
+        
 publications:
     title: Publications
     intro: |
@@ -145,17 +138,18 @@ experiences:
       details: |
         I developed an algorithm to accelerate geometric computations used in massive full 3D online game environment with octree and bounding volume hierarchy(BVH).
 awards:
-    - role: Teaching Assistant
-      time: Sep 2019 - Dec 2019
-      company: 4190.667 Geometric Modeling Course at SNU
-    - role: Teaching Assistant
-      time: Mar 2019 - June 2019
-      company: 4190.313 Linear and Non-linear Computation Models Course at SNU
-    - role: Game Engine Programmer (Intern)
-      time: July 2018 - Sep 2018
-      company: Smilegate
-      details: |
-        I developed an algorithm to accelerate geometric computations used in massive full 3D online game environment with octree and bounding volume hierarchy(BVH).
+    - role: Lecture & Research Scholarship
+      time: 2020
+    - role: Best Paper Award (Korean Computer Graphics Society)
+      time: 2019
+    - role: Brain Korea 21 Plus
+      time: 2019
+    - role: Samsung Convergence Software Course Scholarship
+      time: 2017
+    - role: Eminence Scholarship
+      time: 2017
+    - role: National Humanities and Social Sciences and Undergraduate Scholarship
+      time: 2016
 skills:
     title: Skills &amp; Proficiency
 
