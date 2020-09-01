@@ -56,11 +56,12 @@ education:
       university: 3D Modeling and Processing Lab, Seoul National University
       time: Mar 2019 - Present
       details: |
-        Supervised by professor **[Myung-Soo Kim](http://3map.snu.ac.kr/mskim)**, I have been a master student of [3D Modeling and Processing Lab](http://3map.snu.ac.kr/) in SNU.
+        Supervised by professor **[Myung-Soo Kim](http://3map.snu.ac.kr/mskim)**, I am a master student in [3D Modeling and Processing Lab](http://3map.snu.ac.kr/) at SNU.
         In this lab, I have worked on following geometric issues :
           - **Hausdorff Distance** : I am *currently* working on an algorithm to compute Hausdorff distance between freeform surfaces.
           - **Parameter Inversion** : I have developed an algorithm to solve parameter inversion problem for freeform surfaces and volumes.
           - **Rectangle Swept Sphere(RSS)** : I have developed an algorithm to bound freeform surfaces tightly with RSS and contributed to surface-surface intersection algorithm's acceleration. [[paper](https://www.sciencedirect.com/science/article/pii/S0010448520300592)]
+          - **3D Shape Retrieval** : I have developed an algorithm to conduct 3D shape retrieval using spherical bounding volume hierarchies as a term project for a course. [[paper](https://github.com/SonSang/Course-Project_Machine-Learning-and-Optimization-for-3D-Data/blob/master/Paper/Shape%20Retrieval%20with%20Spherical%20Bounding%20Volume%20Hierarchy.pdf)][[github](https://github.com/SonSang/Course-Project_Machine-Learning-and-Optimization-for-3D-Data)]
           - **Torus** : I have developed a novel algorithm to find minimum distance between toroidal patches and accelerated minimum distance computation between solids of revolution. [[paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13950)][[github](https://github.com/SonSang/MinuteTorus)]
           - **Spherical Shell** : I have developed an algorithm to bound surface of revolution with spherical shell and accelerated minimum distance computation between surfaces of revolution. [[paper(Korean)](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=557421bed7e75a9ec85d2949c297615a)]
           - **Medial Axis Transform** : I have developed a GPU algorithm to compute medial axis, or bisector, of two bicubic Bezier surfaces in interactive time([video]()).
