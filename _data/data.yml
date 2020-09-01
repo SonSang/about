@@ -46,32 +46,33 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a second year Master graduate student supervised by **[Myung-Soo Kim](http://3map.snu.ac.kr/mskim)**. <br/>
+      I am a second year **Master** graduate student supervised by **[Myung-Soo Kim](http://3map.snu.ac.kr/mskim)**. <br/>
       My research interests lie on <strong>computer graphics, geometric processing, machine learning, and AR/VR</strong>. <br/>
-      Previously, I was an undergraduate student at SNU majoring in archaeology and computer science. Still, I am interested in analyzing historical artifacts with computers.<br/>
-      Also, I am an avid video game player, so I spent my summer vacation in 2018 as a game engine programmer intern.
+      Previously, I was an undergraduate student at SNU majoring in <strong>Archaeology</strong> and <strong>Computer Science and Engineering</strong>, and graduated <strong>Summa Cum Laude</strong>. Still, I am interested in analyzing historical artifacts with computers.<br/>
+      Also, I am an avid video game player, so I spent my summer vacation in 2018 as a game engine programmer intern at <a href="https://www.smilegate.com/en/main/main.asp">Smilegate</a>.
       
 education:
     - degree: Master Student in Computer Science and Engineering
       university: 3D Modeling and Processing Lab, Seoul National University
       time: Mar 2019 - Present
       details: |
-        Supervised by professor **[Myung-Soo Kim](http://3map.snu.ac.kr/mskim)**, I have been a master student of [3D Modeling and Processing Lab](http://3map.snu.ac.kr/) in SNU.
-        In this lab, I have worked on following geometric issues :
+        Supervised by professor **[Myung-Soo Kim](http://3map.snu.ac.kr/mskim)**, I am a master student in [3D Modeling and Processing Lab](http://3map.snu.ac.kr/) at SNU.
+        In this lab, I have worked on following issues :
           - **Hausdorff Distance** : I am *currently* working on an algorithm to compute Hausdorff distance between freeform surfaces.
           - **Parameter Inversion** : I have developed an algorithm to solve parameter inversion problem for freeform surfaces and volumes.
           - **Rectangle Swept Sphere(RSS)** : I have developed an algorithm to bound freeform surfaces tightly with RSS and contributed to surface-surface intersection algorithm's acceleration. [[paper](https://www.sciencedirect.com/science/article/pii/S0010448520300592)]
+          - **3D Shape Retrieval** : I have developed an algorithm to conduct 3D shape retrieval using spherical bounding volume hierarchies as a term project for a course. [[paper](https://github.com/SonSang/Course-Project_Machine-Learning-and-Optimization-for-3D-Data/blob/master/Paper/Shape%20Retrieval%20with%20Spherical%20Bounding%20Volume%20Hierarchy.pdf)][[github](https://github.com/SonSang/Course-Project_Machine-Learning-and-Optimization-for-3D-Data)]
           - **Torus** : I have developed a novel algorithm to find minimum distance between toroidal patches and accelerated minimum distance computation between solids of revolution. [[paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13950)][[github](https://github.com/SonSang/MinuteTorus)]
           - **Spherical Shell** : I have developed an algorithm to bound surface of revolution with spherical shell and accelerated minimum distance computation between surfaces of revolution. [[paper(Korean)](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=557421bed7e75a9ec85d2949c297615a)]
-          - **Medial Axis Transform** : I have developed a GPU algorithm to compute medial axis, or bisector, of two bicubic Bezier surfaces in interactive time([video]()).
+          - **Medial Axis Transform** : I have developed a GPU algorithm to compute medial axis, or bisector, of two bicubic Bezier surfaces in interactive time. [[video]()]
     - degree: BA in Archaeology<br/>BSc in Computer Science and Engineering
       university: Seoul National University
       time: Mar 2012 - Feb 2019
       details: |
         I majored in *Archaeology* and *Computer Science and Engineering* at SNU, and graduated **Summa Cum Laude**.
         I authored following two bachelor thesis :
-          - **Sang Hyun Son**, [Analysis of Hunter-Gatherer Subsistence Strategy with Computer Simulation](), 2018 (Korean)
-          - **Sang Hyun Son**, [Bisector Surface Construction for Two Bicubic Bezier Surfaces](), 2018 (Korean)
+          - **Sang Hyun Son**, [Analysis of Hunter-Gatherer Subsistence Strategy with Computer Simulation](https://github.com/SonSang/online-cv/blob/master/assets/papers/Bachelor_Thesis_Analysis%20of%20Hunter-Gatherer%20Subsistence%20Strategy%20with%20Computer%20Simulation.pdf), 2018 (Korean)
+          - **Sang Hyun Son**, [Bisector Surface Construction for Two Bicubic Bezier Surfaces](https://github.com/SonSang/online-cv/blob/master/assets/papers/Bachelor_Thesis_Bisector%20Surface%20Construction%20for%20Two%20Bicubic%20Bezier%20Surfaces.pdf), 2018 (Korean)
 publications:
     title: Publications
     intro: |
