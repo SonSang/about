@@ -64,7 +64,7 @@ education:
           - **3D Shape Retrieval** : I have developed an algorithm to conduct 3D shape retrieval using spherical bounding volume hierarchies as a term project for a course. [[paper](https://github.com/SonSang/Course-Project_Machine-Learning-and-Optimization-for-3D-Data/blob/master/Paper/Shape%20Retrieval%20with%20Spherical%20Bounding%20Volume%20Hierarchy.pdf)][[github](https://github.com/SonSang/Course-Project_Machine-Learning-and-Optimization-for-3D-Data)]
           - **Torus** : I have developed a novel algorithm to find minimum distance between toroidal patches and accelerated minimum distance computation between solids of revolution. [[paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13950)][[github](https://github.com/SonSang/MinuteTorus)][[talk](https://www.youtube.com/watch?v=BoRHXYlMLIg&t=47m57s)]
           - **Spherical Shell** : I have developed an algorithm to bound surface of revolution with spherical shell and accelerated minimum distance computation between surfaces of revolution. [[paper](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=557421bed7e75a9ec85d2949c297615a)][[ppt](https://github.com/SonSang/online-cv/blob/master/assets/papers/KCGS_Presentation.pptx)]
-          - **Medial Axis Transform** : I have developed a GPU algorithm to compute medial axis, or bisector, of two bicubic Bezier surfaces in interactive time. [[paper](https://github.com/SonSang/online-cv/blob/master/assets/papers/Bachelor_Thesis_Bisector%20Surface%20Construction%20for%20Two%20Bicubic%20Bezier%20Surfaces.pdf)][[video]()]
+          - **Medial Axis Transform** : I have developed a GPU algorithm to compute medial axis, or bisector, of two bicubic Bezier surfaces in interactive time. [[paper](https://github.com/SonSang/online-cv/blob/master/assets/papers/Bachelor_Thesis_Bisector%20Surface%20Construction%20for%20Two%20Bicubic%20Bezier%20Surfaces.pdf)][[video](https://youtu.be/KcjTJ2wsBiw)]
     - degree: BA in Archaeology<br/>BSc in Computer Science and Engineering
       university: Seoul National University
       time: Mar 2012 - Feb 2019
@@ -72,7 +72,7 @@ education:
         I majored in **Archaeology** and **Computer Science and Engineering** at SNU, and graduated **Summa Cum Laude**.
         I authored following two bachelor thesis :
           - **Sang Hyun Son**, [Analysis of Hunter-Gatherer Subsistence Strategy with Computer Simulation](https://github.com/SonSang/online-cv/blob/master/assets/papers/Bachelor_Thesis_Analysis%20of%20Hunter-Gatherer%20Subsistence%20Strategy%20with%20Computer%20Simulation.pdf), 2018 (Korean)
-          - **Sang Hyun Son**, [Bisector Surface Construction for Two Bicubic Bezier Surfaces](https://github.com/SonSang/online-cv/blob/master/assets/papers/Bachelor_Thesis_Bisector%20Surface%20Construction%20for%20Two%20Bicubic%20Bezier%20Surfaces.pdf), 2018 (Korean)
+          - **Sang Hyun Son**, [Bisector Surface Construction for Two Bicubic Bezier Surfaces](https://github.com/SonSang/online-cv/blob/master/assets/papers/Bachelor_Thesis_Bisector%20Surface%20Construction%20for%20Two%20Bicubic%20Bezier%20Surfaces.pdf), 2018 (Korean) [[video](https://youtu.be/KcjTJ2wsBiw)]
 publications:
     title: Publications
     intro: |
