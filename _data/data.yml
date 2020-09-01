@@ -63,7 +63,7 @@ education:
           - **Rectangle Swept Sphere(RSS)** : I have developed an algorithm to bound freeform surfaces tightly with RSS and contributed to surface-surface intersection algorithm's acceleration. [[paper](https://www.sciencedirect.com/science/article/pii/S0010448520300592)]
           - **3D Shape Retrieval** : I have developed an algorithm to conduct 3D shape retrieval using spherical bounding volume hierarchies as a term project for a course. [[paper](https://github.com/SonSang/Course-Project_Machine-Learning-and-Optimization-for-3D-Data/blob/master/Paper/Shape%20Retrieval%20with%20Spherical%20Bounding%20Volume%20Hierarchy.pdf)][[github](https://github.com/SonSang/Course-Project_Machine-Learning-and-Optimization-for-3D-Data)]
           - **Torus** : I have developed a novel algorithm to find minimum distance between toroidal patches and accelerated minimum distance computation between solids of revolution. [[paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13950)][[github](https://github.com/SonSang/MinuteTorus)]
-          - **Spherical Shell** : I have developed an algorithm to bound surface of revolution with spherical shell and accelerated minimum distance computation between surfaces of revolution. [[paper(Korean)](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=557421bed7e75a9ec85d2949c297615a)]
+          - **Spherical Shell** : I have developed an algorithm to bound surface of revolution with spherical shell and accelerated minimum distance computation between surfaces of revolution. [[paper(Korean)](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=557421bed7e75a9ec85d2949c297615a)][[ppt](https://github.com/SonSang/online-cv/blob/master/assets/papers/KCGS_Presentation.pptx)]
           - **Medial Axis Transform** : I have developed a GPU algorithm to compute medial axis, or bisector, of two bicubic Bezier surfaces in interactive time. [[video]()]
     - degree: BA in Archaeology<br/>BSc in Computer Science and Engineering
       university: Seoul National University
@@ -85,12 +85,12 @@ publications:
       - title: Efficient Minimum Distance Computation for Solids of Revolution
         link: https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13950
         authors: <strong>Sang-Hyun Son</strong>, Seung-Hyun Yoon, Myung-Soo Kim, Gershon Elber
-        conference: Eurographics & Eurovis (Computer Graphics Forum, 2020) <a href="https://www.youtube.com/watch?v=BoRHXYlMLIg&t=47m57s">[Talk]</em> <a href="https://github.com/SonSang/MinuteTorus">[Github]</em> 
+        conference: Eurographics & Eurovis (Computer Graphics Forum, 2020) <a href="https://www.youtube.com/watch?v=BoRHXYlMLIg&t=47m57s">[Talk]</a> <a href="https://github.com/SonSang/MinuteTorus">[Github]</a> 
 
       - title: "Computing minimum distance between surfaces of revolution using spherical shell tree (Korean)"
         link: http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=557421bed7e75a9ec85d2949c297615a
         authors: <strong>Sang-Hyun Son</strong>, Seung-Hyun Yoon, Myung-Soo Kim
-        conference: Korea Computer Graphics Society, 2019 <strong>(Best Paper Award)</strong>
+        conference: Korea Computer Graphics Society, 2019 <a href=https://github.com/SonSang/online-cv/blob/master/assets/papers/KCGS_Presentation.pptx>[ppt]</a> <strong>(Best Paper Award)</strong>
 projects:
     title: Projects
     intro: >
