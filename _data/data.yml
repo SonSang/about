@@ -96,7 +96,7 @@ publications:
 projects:
     title: Projects
     intro: >
-      My projects primarily concern about topics in computer graphics and geometry processing. 
+      My projects are primarily concerned with topics in computer graphics and geometry processing. 
       They come with prefix <strong>Minute</strong>, which means <strong>Extremely Small and Simple</strong>.
     assignments:
       - title: MinuteUtils
