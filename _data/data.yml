@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: <span style="font-size:0.75em";>Sang Hyun Son</span>
-    tagline: Graduate Student (SNU CSE)
+    tagline: Master Student (SNU CSE)
     avatar: sanghyun_profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
