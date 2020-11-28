@@ -79,7 +79,7 @@ masterthesis:
     title: Master Thesis
     intro: |
     papers:
-      - title: "Efficient Geometric Algorithms Using Toroidal Patches" (In progress)
+      - title: "Efficient Geometric Algorithms Using Toroidal Patches (In progress)"
         link: 
         authors: <strong>Sang-Hyun Son</strong>
         conference: "Seoul National University"
