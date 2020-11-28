@@ -71,11 +71,8 @@ education:
       time: Mar 2012 - Feb 2019
       details: |
         I majored in **Archaeology** and **Computer Science and Engineering** at SNU, and graduated **Summa Cum Laude**.
-        I authored following two bachelor thesis :
-          - **Sang Hyun Son**, [Analysis of Hunter-Gatherer Subsistence Strategy with Computer Simulation](https://github.com/SonSang/online-cv/blob/master/assets/papers/Bachelor_Thesis_Analysis%20of%20Hunter-Gatherer%20Subsistence%20Strategy%20with%20Computer%20Simulation.pdf), 2018 (Korean)
-          - **Sang Hyun Son**, [Bisector Surface Construction for Two Bicubic Bezier Surfaces](https://github.com/SonSang/online-cv/blob/master/assets/papers/Bachelor_Thesis_Bisector%20Surface%20Construction%20for%20Two%20Bicubic%20Bezier%20Surfaces.pdf), 2018 (Korean) [[video](https://youtu.be/KcjTJ2wsBiw)]
-
-masterthesis:
+        
+master-thesis:
     title: Master Thesis
     intro: |
     papers:
@@ -83,6 +80,21 @@ masterthesis:
         link: 
         authors: <strong>Sang-Hyun Son</strong>
         conference: "Seoul National University"
+        
+
+master-thesis:
+    title: Bachelor Thesis
+    intro: |
+    papers:
+      - title: "Analysis of Hunter-Gatherer Subsistence Strategy with Computer Simulation (Korean)"
+        link: https://github.com/SonSang/online-cv/blob/master/assets/papers/Bachelor_Thesis_Analysis%20of%20Hunter-Gatherer%20Subsistence%20Strategy%20with%20Computer%20Simulation.pdf
+        authors: <strong>Sang-Hyun Son</strong>
+        conference: Seoul National University, 2018
+        
+      - title: "Bisector Surface Construction for Two Bicubic Bezier Surfaces (Korean)"
+        link: https://github.com/SonSang/online-cv/blob/master/assets/papers/Bachelor_Thesis_Bisector%20Surface%20Construction%20for%20Two%20Bicubic%20Bezier%20Surfaces.pdf
+        authors: <strong>Sang-Hyun Son</strong>
+        conference: Seoul National University, 2018 <a href= "https://youtu.be/KcjTJ2wsBiw">[video]</a>
 
 
 publications:
