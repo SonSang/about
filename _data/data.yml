@@ -77,7 +77,7 @@ master-thesis:
     intro: |
     papers:
       - title: "Efficient Geometric Algorithms Using Osculating Toroidal Patches (Work in progress)"
-        link: 
+        link: https://raw.githubusercontent.com/SonSang/about/master/assets/papers/Master_Thesis_Efficient%20Geometric%20Algorithms%20Using%20Osculating%20Toroidal%20Patches.pdf
         authors: <strong>Sang-Hyun Son</strong>
         conference: "Seoul National University"
         
