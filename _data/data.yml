@@ -59,7 +59,7 @@ education:
       details: |
         Supervised by professor **[Myung-Soo Kim](http://3map.snu.ac.kr/mskim)**, I am a master student in [3D Modeling and Processing Lab](http://3map.snu.ac.kr/) at SNU.
         In this lab, I have worked on following issues :
-          - **Torus & Hausdorff Distance** : I have developed a novel algorithm to bound freeform parametric surfaces with toroidal patches and enhanced the precision and speed of Hausdorff distance computation algorithm between the surfaces **(Work in progress, will be submitted soon!)**.
+          - **Torus & Hausdorff Distance** : I have developed a novel algorithm to bound freeform parametric surfaces with toroidal patches and enhanced the precision and speed of Hausdorff distance computation algorithm between the surfaces **(Work in progress, submitted!)**.
           - **Inverse Problem** : I have developed an algorithm to solve inverse problem to retrieve parameters for freeform parametric surfaces and volumes.
           - **Rectangle Swept Sphere(RSS)** : I have developed an algorithm to bound freeform surfaces with RSS and contributed to the acceleration of surface-surface intersection algorithm. [[paper](https://www.sciencedirect.com/science/article/pii/S0010448520300592)]
           - **3D Shape Retrieval** : I have developed an algorithm to conduct 3D shape retrieval using spherical bounding volume hierarchies as a term project for a course. [[paper](https://github.com/SonSang/Course-Project_Machine-Learning-and-Optimization-for-3D-Data/blob/master/Paper/Shape%20Retrieval%20with%20Spherical%20Bounding%20Volume%20Hierarchy.pdf)][[github](https://github.com/SonSang/Course-Project_Machine-Learning-and-Optimization-for-3D-Data)]
@@ -101,6 +101,11 @@ publications:
     title: Publications
     intro: |
     papers:
+      - title: "Precise Hausdorff Distance Computation for Freeform Surfaces Based on Computations with Osculating Toroidal Patches (Submitted)"
+        link: 
+        authors: 
+        conference: 
+        
       - title: "Surface-Surface-Intersection Computation Using a Bounding Volume Hierarchy with Osculating Toroidal Patches in the Leaf Nodes"
         link: https://www.sciencedirect.com/science/article/pii/S0010448520300592
         authors: Youngjin Park, <strong>Sang-Hyun Son</strong>, Myung-Soo Kim, Gershon Elber
