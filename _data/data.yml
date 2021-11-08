@@ -7,13 +7,13 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: <span style="font-size:0.75em";>Sang Hyun Son</span>
-    tagline: Master Student (SNU CSE)
+    name: <span style="font-size:0.75em";>Sanghyun Son</span>
+    tagline: PhD Student (University of Maryland)
     avatar: sanghyun_profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: shh1295@snu.ac.kr
-    phone: (+82)-10-6403-8286
+    email: shh1295@gmail.com
+    phone: (+82)-10-6403-8286, (+1)-240-726-3598
     website: sonsang.github.io/about/
     github: SonSang
     cv: https://raw.githubusercontent.com/SonSang/about/master/assets/Curriculum_Vitae.pdf
@@ -29,37 +29,39 @@ sidebar:
       - item: Computer Graphics
         link:
       
-      - item: Geometry Processing
+      - item: Machine Learning (Reinforcement Learning)
         link:
         
-      - item: Machine Learning
-        link:
-        
-      - item: AR/VR
+      - item: Computer Simulations
         link:
       
-      - item: Computer Vision
-        link:
-        
-      - item: Game Engine
+      - item: AR/VR
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      I am a second year **Master** student supervised by professor **[Myung-Soo Kim](http://3map.snu.ac.kr/mskim)**. <br/>
-      My research interests lie on <strong>Computer Graphics, Geometry Processing, Machine Learning, AR/VR, and Computer Vision</strong>. <br/>
-      Previously, I was an undergraduate student at SNU majoring in <strong>Archaeology</strong> and <strong>Computer Science and Engineering</strong>, and graduated <strong>Summa Cum Laude</strong>. Still, I am interested in analyzing historical artifacts with computers.<br/>
-      Also, I am an avid video game player, so I spent my summer vacation in 2018 as a game engine programmer intern at <a href="https://www.smilegate.com/en/main/main.asp">Smilegate</a>.
+      I am a first year **PhD** student supervised by professor **[Ming C. Lin](https://www.cs.umd.edu/~lin/)**. <br/>
+      Before coming to Maryland, I got my Bachelor's degree in Archaeology in Computer Science at Seoul National University, Korea. 
+      And then, I earned Master's degree in Computer Science under the supervision of professor **[Myung-Soo Kim](http://3map.snu.ac.kr/mskim)** at Seoul National University. 
+      My research interests lie on <strong>Computer Graphics, Machine Learning (especially in Reinforcement Learning), Computer Simulations, and AR/VR</strong>. <br/>
+      My dream is to make realistic virtual environment that we can explore, and learn valuable insights about our world from it.
       
 education:
-    - degree: Master Student in Computer Science and Engineering
-      university: 3D Modeling and Processing Lab, Seoul National University
-      time: Mar 2019 - Present
+    - degree: PhD Student in Computer Science and Engineering
+      university: GAMMA Lab, University of Maryland
+      time: Sep 2021 - Present
       details: |
-        Supervised by professor **[Myung-Soo Kim](http://3map.snu.ac.kr/mskim)**, I am a master student in [3D Modeling and Processing Lab](http://3map.snu.ac.kr/) at SNU.
+        Supervised by professor **[Ming C. Lin](https://www.cs.umd.edu/~lin/)**, I am a PhD student in [GAMMA Lab](https://gamma.umd.edu/) at UMD.
         In this lab, I have worked on following issues :
-          - **Torus & Hausdorff Distance** : I have developed a novel algorithm to bound freeform parametric surfaces with toroidal patches and enhanced the precision and speed of Hausdorff distance computation algorithm between the surfaces **(Work in progress, accepted!)**.
+          - **Traffic Simulation** : I am now working on a traffic simulation that is scalable and differentiable, which is based on a physical law that describes the traffic flow.
+    - degree: MSc in Computer Science and Engineering
+      university: 3D Modeling and Processing Lab, Seoul National University
+      time: Mar 2019 - Aug 2021
+      details: |
+        Supervised by professor **[Myung-Soo Kim](http://3map.snu.ac.kr/mskim)**, I earned Master's degree in Computer Science at SNU.
+        During my Master years, I have worked on following issues :
+          - **Torus & Hausdorff Distance** : I have developed a novel algorithm to bound freeform parametric surfaces with toroidal patches and enhanced the precision and speed of Hausdorff distance computation algorithm between the surfaces[[paper](https://www.researchgate.net/publication/350196159_Precise_Hausdorff_Distance_Computation_for_Freeform_Surfaces_Based_on_Computations_with_Osculating_Toroidal_Patches)].
           - **Inverse Problem** : I have developed an algorithm to solve inverse problem to retrieve parameters for freeform parametric surfaces and volumes.
           - **Rectangle Swept Sphere(RSS)** : I have developed an algorithm to bound freeform surfaces with RSS and contributed to the acceleration of surface-surface intersection algorithm. [[paper](https://www.sciencedirect.com/science/article/pii/S0010448520300592)]
           - **3D Shape Retrieval** : I have developed an algorithm to conduct 3D shape retrieval using spherical bounding volume hierarchies as a term project for a course. [[paper](https://github.com/SonSang/Course-Project_Machine-Learning-and-Optimization-for-3D-Data/blob/master/Paper/Shape%20Retrieval%20with%20Spherical%20Bounding%20Volume%20Hierarchy.pdf)][[github](https://github.com/SonSang/Course-Project_Machine-Learning-and-Optimization-for-3D-Data)]
@@ -76,7 +78,7 @@ master-thesis:
     title: Master Thesis
     intro: |
     papers:
-      - title: "Efficient Geometric Algorithms Using Osculating Toroidal Patches (Work in progress)"
+      - title: "Efficient Geometric Algorithms Using Osculating Toroidal Patches"
         link: https://raw.githubusercontent.com/SonSang/about/master/assets/papers/Master_Thesis_Efficient%20Geometric%20Algorithms%20Using%20Osculating%20Toroidal%20Patches.pdf
         authors: <strong>Sang-Hyun Son</strong>
         conference: "Seoul National University"
@@ -101,10 +103,10 @@ publications:
     title: Publications
     intro: |
     papers:
-      - title: "Precise Hausdorff Distance Computation for Freeform Surfaces Based on Computations with Osculating Toroidal Patches (Accepted)"
-        link: 
-        authors: 
-        conference: 
+      - title: "Precise Hausdorff Distance Computation for Freeform Surfaces Based on Computations with Osculating Toroidal Patches"
+        link: https://www.researchgate.net/publication/350196159_Precise_Hausdorff_Distance_Computation_for_Freeform_Surfaces_Based_on_Computations_with_Osculating_Toroidal_Patches
+        authors: <strong>Sang-Hyun Son</strong>, Myung-Soo Kim, Gershon Elber
+        conference: "Computer Aided Geometric Design (International Conference on Geometric Modeling and Processing 2021)"
         
       - title: "Surface-Surface-Intersection Computation Using a Bounding Volume Hierarchy with Osculating Toroidal Patches in the Leaf Nodes"
         link: https://www.sciencedirect.com/science/article/pii/S0010448520300592
@@ -123,7 +125,7 @@ publications:
 projects:
     title: Projects
     intro: >
-      My projects are primarily concerned with topics in computer graphics and geometry processing. 
+      My previous projects are primarily concerned with topics in computer graphics and geometry processing. 
       They come with prefix <strong>Minute</strong>, which means <strong>Extremely Small and Simple</strong>.
     assignments:
       - title: MinuteUtils
@@ -154,6 +156,9 @@ projects:
         link: https://github.com/SonSang/Course-Project_Machine-Learning-and-Optimization-for-3D-Data
         tagline: "Code that I submitted as term project for 430.658 Machine Learning and Optimization for 3D Data course at SNU in 2019"
 experiences:
+    - role: Teaching Assistant
+      time: Sep 2021 - Dec 2021
+      company: CMSC132 Object Oriented Programming (2) at UMD
     - role: Teaching Assistant
       time: Sep 2019 - Dec 2019
       company: 4190.667 Geometric Modeling Course at SNU
@@ -189,7 +194,7 @@ skills:
         level: 90%
 
       - name: Python 
-        level: 75%
+        level: 90%
         
       - name: CUDA 
         level: 75%
