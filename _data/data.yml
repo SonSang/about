@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: <span style="font-size:0.75em";>Sanghyun Son</span>
-    tagline: PhD Student at **[UMD](https://www.umd.edu/)**
+    tagline: PhD Student at University of Maryland
     avatar: sanghyun_profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -28,7 +28,7 @@ sidebar:
       - item: Computer Graphics
         link:
       
-      - item: Machine Learning (Reinforcement Learning)
+      - item: Reinforcement Learning
         link:
         
       - item: Computer Simulations
@@ -60,7 +60,7 @@ education:
       details: |
         Supervised by professor **[Myung-Soo Kim](http://3map.snu.ac.kr/mskim)**, I earned Master's degree in Computer Science at SNU.
         During my Master years, I have worked on following issues :
-          - **Torus & Hausdorff Distance** : I have developed a novel algorithm to bound freeform parametric surfaces with toroidal patches and enhanced the precision and speed of Hausdorff distance computation algorithm between the surfaces[[paper](https://www.researchgate.net/publication/350196159_Precise_Hausdorff_Distance_Computation_for_Freeform_Surfaces_Based_on_Computations_with_Osculating_Toroidal_Patches)].
+          - **Torus & Hausdorff Distance** : I have developed a novel algorithm to bound freeform parametric surfaces with toroidal patches and enhanced the precision and speed of Hausdorff distance computation algorithm between the surfaces [[paper](https://www.researchgate.net/publication/350196159_Precise_Hausdorff_Distance_Computation_for_Freeform_Surfaces_Based_on_Computations_with_Osculating_Toroidal_Patches)].
           - **Inverse Problem** : I have developed an algorithm to solve inverse problem to retrieve parameters for freeform parametric surfaces and volumes.
           - **Rectangle Swept Sphere(RSS)** : I have developed an algorithm to bound freeform surfaces with RSS and contributed to the acceleration of surface-surface intersection algorithm. [[paper](https://www.sciencedirect.com/science/article/pii/S0010448520300592)]
           - **3D Shape Retrieval** : I have developed an algorithm to conduct 3D shape retrieval using spherical bounding volume hierarchies as a term project for a course. [[paper](https://github.com/SonSang/Course-Project_Machine-Learning-and-Optimization-for-3D-Data/blob/master/Paper/Shape%20Retrieval%20with%20Spherical%20Bounding%20Volume%20Hierarchy.pdf)][[github](https://github.com/SonSang/Course-Project_Machine-Learning-and-Optimization-for-3D-Data)]
