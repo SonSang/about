@@ -167,7 +167,7 @@ experiences:
       time: July 2018 - Sep 2018
       company: Smilegate
       details: |
-        I developed an algorithm to accelerate geometric computations used in massive full 3D online game environment with octree and bounding volume hierarchy(BVH).
+        I developed an algorithm in Unreal Engine to accelerate geometric computations used in massive full 3D online game environment with octree and bounding volume hierarchy(BVH).
 awards:
     - role: Lecture & Research Scholarship
       time: 2020
