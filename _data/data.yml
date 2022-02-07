@@ -51,8 +51,7 @@ education:
       time: Sep 2021 - Present
       details: |
         Supervised by professor **[Ming C. Lin](https://www.cs.umd.edu/~lin/)**, I am a PhD student in [GAMMA Lab](https://gamma.umd.edu/) at UMD.
-        In this lab, I have worked on following issues :
-          - **Traffic Simulation** : I am now working on a traffic simulation that is scalable and differentiable, which is based on a physical law that describes the traffic flow.
+        In this lab, I am working on various kinds of computer simulations and their extensions to XR.
     - degree: MSc in Computer Science and Engineering
       university: 3D Modeling and Processing Lab, Seoul National University
       time: Mar 2019 - Aug 2021
@@ -101,6 +100,8 @@ publications:
     title: Publications
     intro: |
     papers:
+      - title: Submitted 2 papers to ICML 2022
+      
       - title: "Precise Hausdorff Distance Computation for Freeform Surfaces Based on Computations with Osculating Toroidal Patches"
         link: https://www.researchgate.net/publication/350196159_Precise_Hausdorff_Distance_Computation_for_Freeform_Surfaces_Based_on_Computations_with_Osculating_Toroidal_Patches
         authors: <strong>Sang-Hyun Son</strong>, Myung-Soo Kim, Gershon Elber
@@ -154,6 +155,9 @@ projects:
         link: https://github.com/SonSang/Course-Project_Machine-Learning-and-Optimization-for-3D-Data
         tagline: "Code that I submitted as term project for 430.658 Machine Learning and Optimization for 3D Data course at SNU in 2019"
 experiences:
+    - role: Teaching Assistant
+      time: Feb 2022 - May 2022
+      company: CMSC425 Game Programming at UMD
     - role: Teaching Assistant
       time: Sep 2021 - Dec 2021
       company: CMSC132 Object Oriented Programming (2) at UMD
