@@ -197,6 +197,12 @@ skills:
 
       - name: Python 
         level: 90%
+      
+      - name: PyTorch
+        level: 80%
+      
+      - name: Tensorflow 
+        level: 75%
         
       - name: CUDA 
         level: 75%
